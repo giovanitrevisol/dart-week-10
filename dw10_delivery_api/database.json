@@ -2,15 +2,16 @@
   "users": [
     {
       "id": 2,
-      "name": "Giovani Trevisol",
-      "email": "giovanitrevisol@dev.br",
+      "name": "Rodrigo Rahman",
+      "email": "rodrigorahman@academiadoflutter.com.br",
       "password": "123123"
     }
   ],
   "adm_users": [
     {
-      "name": "Giovani Trevisol",
-      "email": "giovanitrevisol@dev.br",
+      "id": 2,
+      "name": "Rodrigo Rahman",
+      "email": "rodrigorahman@academiadoflutter.com.br",
       "password": "123123"
     }
   ],
